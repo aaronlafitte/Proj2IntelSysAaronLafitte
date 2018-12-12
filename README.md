@@ -71,5 +71,22 @@ All of these images are from my testing data set, which can be found in data/tes
 The expected output should look something like this:
 ![results](https://user-images.githubusercontent.com/37847947/49842988-d23f4780-fd7a-11e8-8186-a48742419b02.JPG)
 
+## Findings
+Real time object detection requires some beefy graphics cards. I was pretty pleased on the outcome of this project. If I could go back I would defienetley need to add to the data set heavily. I also found it funny that the King card confused the model the most. There must be futures like hair that are similar enough to Jacks, Queens, and Kings that makes it confused. I would also be curious to know what added more numbered cards would do to the model. Having so many that are close enough alike would probably confuse it as well. 
+
+## Environment
+```
+Windows 10
+Anaconda 5.3.1
+Python 3.6
+tensorflow 1.12
+numpy 1.15.4
+opencv-python 3.4.4.19
+Pillow 5.3.0
+matplotlib 3.0.2
+Cython 0.29.1
+
+```
+
 
 
