@@ -7,8 +7,9 @@ I understand the setup for this is rather difficult and requires a power GPU to 
 so I have added unit tests that will simply classify images that I have provided.
 To demonstrate that I am able to detect objects in real time, I have uploaded a screen recording 
 of my roomate's pc doing the object detection with a webcam and a GTX 1070 graphics card. I used my
-roomate's computer because I do not have the luxury of having a nice graphics card. Below is an image
-of the video that will take you to the video itself if you click on it.
+roomate's computer because I do not have the luxury of having a nice graphics card. 
+
+**Below is an image of the video that will take you to the video itself if you click on it.**
 
 [![Project 2](http://img.youtube.com/vi/xPUh7N2N0bo/0.jpg)](http://www.youtube.com/watch?v=xPUh7N2N0bo "Project 2")
 
