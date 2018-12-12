@@ -14,10 +14,9 @@ of the video that will take you to the video itself if you click on it.
 
 Now that we have seen the classifier run in real time, let's setup your enviorment to run the unit_tests.py.
 
-## How to run unit_tests.py
+## Setting up your environment 
 
-I did this entire project using a Conda virutal enivroment so that my packages are all the same version and
-I would recommend using the same unless you have a different prefrence:
+I did this entire project using a Conda virutal enivroment so that my packages are all the same version.
 https://www.anaconda.com/download/
 
 ```
@@ -57,4 +56,20 @@ python setup.py build
 ```
 python setup.py install
 ```
+Alright! You've done it! Now we run it.
+
+## Running unit_tests.py
+
+All you need to do now is run the command :
+```
+python unit_tests.py
+```
+
+This python script will take take each image inside of the unit_test_images folder and run them through the object detector.
+All of these images are from my testing data set, which can be found in data/test.
+
+The expected output should look something like this:
+
+
+
 
