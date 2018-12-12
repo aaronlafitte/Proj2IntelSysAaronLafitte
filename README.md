@@ -75,6 +75,8 @@ The expected output should look something like this:
 ## Findings
 Real time object detection requires some beefy graphics cards. I was pretty pleased on the outcome of this project. If I could go back I would defienetley need to add to the data set heavily. I also found it funny that the King card confused the model the most. There must be futures like hair that are similar enough to Jacks, Queens, and Kings that makes it confused. I would also be curious to know what added more numbered cards would do to the model. Having so many that are close enough alike would probably confuse it as well. 
 
+I trained the network using the train.py found in the utils folder. The file takes several arguments such as the location of the training and testing data, as well as the inital model used. Tensorflow provides several different models that have been trained to detect objects in general which you can use as a starting point. I used the faster_rcnn_inception_v2_pets.config model to start the initial training. Training took about 6 hours using a 1070 GTX and it appears to be getting pretty good results. If I would have provided a real data set I beilive this would have taken days to train, but would most likely be very accurate. 
+
 ## Environment
 ```
 Windows 10
