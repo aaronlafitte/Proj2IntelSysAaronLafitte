@@ -89,5 +89,10 @@ Cython 0.29.1
 
 ```
 
+### Credit
+https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
+https://github.com/datitran/object_detector_app/
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
+
 
 
