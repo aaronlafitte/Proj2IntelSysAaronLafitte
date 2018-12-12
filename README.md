@@ -69,7 +69,7 @@ This python script will take take each image inside of the unit_test_images fold
 All of these images are from my testing data set, which can be found in data/test.
 
 The expected output should look something like this:
-
+![results](https://user-images.githubusercontent.com/37847947/49842988-d23f4780-fd7a-11e8-8186-a48742419b02.JPG)
 
 
 
