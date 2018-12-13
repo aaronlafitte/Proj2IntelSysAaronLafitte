@@ -95,9 +95,10 @@ GTX 1070 Graphics Card
 
 ### Credit
 
-1. https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
-2. https://github.com/datitran/object_detector_app/
-3. https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
+1. I used a lot of this code as an example to follow, as did both of the other links.
+https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb
+2. This link really helped code my webcam feed. https://github.com/datitran/object_detector_app/
+3. This code was very helpful with demonstatring how to label data as well as providing the data set that I trained on. https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 
 
 
