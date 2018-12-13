@@ -3,7 +3,7 @@
 
 
 The purpose of this project was to create an object classifer which could run in real time.
-I understand the setup for this is rather difficult and requires a power GPU to run reasonably,
+I understand the setup for this is rather difficult and requires a powerful GPU to run reasonably,
 so I have added unit tests that will simply classify images that I have provided.
 To demonstrate that I am able to detect objects in real time, I have uploaded a screen recording 
 of my roomate's pc doing the object detection with a webcam and a GTX 1070 graphics card. I used my
@@ -88,6 +88,8 @@ opencv-python 3.4.4.19
 Pillow 5.3.0
 matplotlib 3.0.2
 Cython 0.29.1
+Logitec Web Cam
+GTX 1070 Graphics Card
 
 ```
 
